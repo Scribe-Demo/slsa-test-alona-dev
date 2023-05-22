@@ -2,7 +2,7 @@
 name: valint dev
 
 on: 
-    push:
+#     push:
     workflow_dispatch:
     
 env:
