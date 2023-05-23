@@ -1,5 +1,5 @@
 
-name: valint dev
+name: dev_only_slsa
 
 on: 
 #     push:
